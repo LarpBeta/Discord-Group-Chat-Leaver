@@ -1,4 +1,4 @@
-# Discord-Group-Chat-Remover
+# Discord-Group-Chat-Leaver
 Leaves all all group chats. Handy if you've been added to 5000+ group chats! 
 
 # How To Use
